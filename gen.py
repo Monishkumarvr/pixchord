@@ -3,7 +3,6 @@ from PIL import Image
 import numpy as np
 from pydub import AudioSegment
 from pydub.generators import Sine
-#import cv2
 import colorsys
 from collections import Counter
 
